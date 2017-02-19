@@ -10,10 +10,10 @@ it merely takes few minutes to install
 
 # How to prepare Request And Call API
 Ok as per my observation we have mainly to types of request 
-  1.Without File or Media attachments
-  2. And With Media Files
+  1.Without File or Media attachments.
+  2. With Media Files.
   
-  1st type of request you can easily test on DB your own 
+  first type of request you can easily test on DB your own 
   problem is with 2nd type of request i.e with media file
   
   so was i created simple web page where you can upload file and call api
