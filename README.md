@@ -26,8 +26,9 @@ Ok this you have to do it your self because each api call have different paramet
 so in Input.js file  i commented code as simple as possible so you can under stand
 
 So basically there are to main Function calls 
-1. testAPI()
-2. testFileAPI()
+
+* testAPI()
+* testFileAPI()
 
 testAPI() for without media file API
 testFileAPI() for with media file API
