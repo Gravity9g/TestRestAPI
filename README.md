@@ -9,7 +9,8 @@ In zip file there is another readme file go through it.
 it merely takes few minutes to install
 
 # How to prepare Request And Call API
-Ok as per my observation we have mainly to types of request 
+Ok as per my observation we have mainly to types of request.
+
   1.Without File or Media attachments.
   2. With Media Files.
   
