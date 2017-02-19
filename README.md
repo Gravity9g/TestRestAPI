@@ -20,7 +20,7 @@ problem is with 2nd type of request i.e with media file
   so was i created simple web page where you can upload file and call api
 
 # worst part :-(
-Preparing request
+  # Preparing request
 
 Ok this you have to do it your self because each api call have different parameters and type,name also (it would be great if we follow same naming convention in api param)
 so in Input.js file  i commented code as simple as possible so you can under stand
