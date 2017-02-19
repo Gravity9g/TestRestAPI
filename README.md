@@ -28,10 +28,10 @@ so in Input.js file  i commented code as simple as possible so you can under sta
 So basically there are to main Function calls 
 
 * testAPI()
- testAPI() for without media file API
+ for without media file API calls
 
 * testFileAPI()
- testFileAPI() for with media file API
+  for with media file API calls
 
 In both of them you have to prepare request your own. Have a look in code i created dummy request there
 
