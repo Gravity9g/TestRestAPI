@@ -1,4 +1,4 @@
-# Test  API With ReactJS 
+# Test  API With ReactJS *Repository is created specifically for one of my friend who is backend developer at SpringCT and wants to TestAPI with front end side *
 
 * I came up with this small module which will help you to test api in ReactJS
 
